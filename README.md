@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kudl1k
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning c++, kotlin and assembler combined with c
