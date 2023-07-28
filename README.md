@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kudl1k
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning c++, kotlin and assembler combined with c
+- 🌱 I’m currently android development using jetpack compose
 - 🏆 Future android app developer
