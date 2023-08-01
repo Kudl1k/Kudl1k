@@ -1,8 +1,9 @@
 ## 👀 About me
 - 👋 Hi, I’m @Kudl1k
 - 👀 I’m interested in gaming
-- 🌱 I’m currently android development using jetpack compose
+- 🌱 I’m currently learning android development with jetpack compose
 - 🏆 Future android app developer
+- 🎓 VSB-TUO 
 
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ## 📊 GitHub Stats:
