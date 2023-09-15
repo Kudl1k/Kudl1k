@@ -1,6 +1,6 @@
 ## 👀 About me
 - 👋 Hi, I’m @Kudl1k
-- 👀 I’m interested in gaming
+- 💖 Kotlin lover
 - 🌱 I’m currently learning android development with jetpack compose
 - 🏆 Future android app developer
 - 🎓 VSB-TUO 
