@@ -1,7 +1,6 @@
 ## 👀 About me
 - 👋 Hi, I’m @Kudl1k
-- 💖 Kotlin lover
-- 🏆 Kotlin multiplatform developer
+- 💖 Kotlin
 - 🎓 VSB-TUO
 - 📱 [Android Libraries](https://github.com/Kudl1k/androidLibraries/blob/main/README.md)
 
